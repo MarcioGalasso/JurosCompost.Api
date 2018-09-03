@@ -1,0 +1,13 @@
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\Softplan.Auth.AuthorizationServer\bin\Debug\netcoreapp2.1\Softplan.Auth.AuthorizationServer.deps.json
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\Softplan.Auth.AuthorizationServer\bin\Debug\netcoreapp2.1\Softplan.Auth.AuthorizationServer.runtimeconfig.json
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\Softplan.Auth.AuthorizationServer\bin\Debug\netcoreapp2.1\Softplan.Auth.AuthorizationServer.runtimeconfig.dev.json
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\Softplan.Auth.AuthorizationServer\bin\Debug\netcoreapp2.1\Softplan.Auth.AuthorizationServer.dll
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\Softplan.Auth.AuthorizationServer\obj\Debug\netcoreapp2.1\Softplan.Auth.AuthorizationServer.csproj.CoreCompileInputs.cache
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\Softplan.Auth.AuthorizationServer\obj\Debug\netcoreapp2.1\Softplan.Auth.AuthorizationServer.RazorAssemblyInfo.cache
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\Softplan.Auth.AuthorizationServer\obj\Debug\netcoreapp2.1\Softplan.Auth.AuthorizationServer.RazorAssemblyInfo.cs
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\Softplan.Auth.AuthorizationServer\obj\Debug\netcoreapp2.1\Softplan.Auth.AuthorizationServer.AssemblyInfoInputs.cache
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\Softplan.Auth.AuthorizationServer\obj\Debug\netcoreapp2.1\Softplan.Auth.AuthorizationServer.AssemblyInfo.cs
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\Softplan.Auth.AuthorizationServer\obj\Debug\netcoreapp2.1\Softplan.Auth.AuthorizationServer.RazorTargetAssemblyInfo.cache
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\Softplan.Auth.AuthorizationServer\bin\Debug\netcoreapp2.1\Softplan.Auth.AuthorizationServer.pdb
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\Softplan.Auth.AuthorizationServer\obj\Debug\netcoreapp2.1\Softplan.Auth.AuthorizationServer.dll
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\Softplan.Auth.AuthorizationServer\obj\Debug\netcoreapp2.1\Softplan.Auth.AuthorizationServer.pdb

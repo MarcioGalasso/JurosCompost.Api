@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SoftPlan.Juros.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Softplan.Api.Controllers.JurosController.CalcularJuros(System.Double,System.Int32)">
+            <summary>
+            Serviço para calculo de juros composto
+            </summary>
+            <param name="valorInicial">Valor Inicial</param>
+            <param name="meses">Periodo de tempo</param>
+            <returns></returns>
+        </member>
+        <member name="M:Softplan.Api.Controllers.JurosController.Showmethecode">
+            <summary>
+            Serviço que forneçe url do projeto no gitHub
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

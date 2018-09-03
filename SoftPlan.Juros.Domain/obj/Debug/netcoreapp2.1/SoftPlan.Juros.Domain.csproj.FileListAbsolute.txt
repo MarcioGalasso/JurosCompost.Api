@@ -1,0 +1,11 @@
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\SoftPlan.Juros.Domain\obj\Debug\netcoreapp2.1\SoftPlan.Juros.Domain.csproj.CoreCompileInputs.cache
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\SoftPlan.Juros.Domain\obj\Debug\netcoreapp2.1\SoftPlan.Juros.Domain.AssemblyInfoInputs.cache
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\SoftPlan.Juros.Domain\obj\Debug\netcoreapp2.1\SoftPlan.Juros.Domain.AssemblyInfo.cs
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\SoftPlan.Juros.Domain\bin\Debug\netcoreapp2.1\SoftPlan.Juros.Domain.deps.json
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\SoftPlan.Juros.Domain\bin\Debug\netcoreapp2.1\SoftPlan.Juros.Domain.dll
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\SoftPlan.Juros.Domain\bin\Debug\netcoreapp2.1\SoftPlan.Juros.Domain.pdb
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\SoftPlan.Juros.Domain\obj\Debug\netcoreapp2.1\SoftPlan.Juros.Domain.dll
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\SoftPlan.Juros.Domain\obj\Debug\netcoreapp2.1\SoftPlan.Juros.Domain.pdb
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\SoftPlan.Juros.Domain\bin\Debug\netcoreapp2.1\SoftPlan.Juros.Domain.runtimeconfig.json
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\SoftPlan.Juros.Domain\bin\Debug\netcoreapp2.1\SoftPlan.Juros.Domain.runtimeconfig.dev.json
+C:\Users\servermxo\source\repos\SoftPlan.Juros.Api\SoftPlan.Juros.Domain\obj\Debug\netcoreapp2.1\SoftPlan.Juros.Domain.csprojAssemblyReference.cache
